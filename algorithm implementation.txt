@@ -1,5 +1,5 @@
 Alogrithm implemention on Ebola metadata
-****************************************
+========================================
 
 /*
 Variable “A” was assigned to load data from the file system (hdfs). Our selected fields of interest in the ebola metadata are country, 
