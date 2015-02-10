@@ -1,5 +1,5 @@
 output
-*******
+======
 (Mali,Kati,Cases,0)
 (Mali,Kati,Deaths,0)
 (Mali,Kati,New cases,0)
