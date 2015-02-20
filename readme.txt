@@ -4,7 +4,8 @@ Description:
 (Source: cdc.gov) Ebola is a rare and deadly disease caused by infection with a strain of Ebola virus.
 The 2014 Ebola epidemic is the largest in history, affecting multiple countries in West Africa.
 The metadata used in this analysis spans a series of African countries affected by the deadly Ebola virus.
-The analytics performed on this data evolves around the  locality of the countries, the category and the value. I will be analyzing the Ebola metadata based on African countries affected by the Ebola virus in relation to  their locality, category (cases, death, confirmed/new/suspected, probable cases) and value (number of cases/death recorded) .
+The analytics performed on this data evolves around the  locality of the countries, the category and the value. 
+I will be analyzing the Ebola metadata based on African countries affected by the Ebola virus in relation to  their locality, category (cases, death, confirmed/new/suspected, probable cases) and value (number of cases/death recorded) .
 A country can have different localities which report varying number of category of cases and value. Due to the vast amount of data in this file, computed output was limited to only 100 outputs. **Limited can be increase if more computed results is desired.
 Data Size- 1542kb
 
